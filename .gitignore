@@ -1,0 +1,7 @@
+# Over GitHub's 100 MB file limit: hosted on Google Drive (link in README.md)
+dashboard/CVI_dashboard_bundle.zip
+
+.ipynb_checkpoints/
+__pycache__/
+Thumbs.db
+.DS_Store
