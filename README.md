@@ -55,10 +55,6 @@ DS-PROJECT/
 ├── Notebook/
 │   └── CVI_Retail_Forecasting.ipynb   ← MAIN NOTEBOOK: full study with all outputs, figures and interpretations
 │
-├── Research-Paper/
-│   ├── Resreach_Paper_Final.pdf                ← final research paper (IEEE conference format)
-│   └── Resreach_Paper_Final.zip                ← LaTeX source: main.tex, refs.bib, IEEEtran.cls, figures/ (Overleaf-ready)
-│
 ├── dashboard/
 │   ├── CVI_Dashboard_Colab.ipynb               ← runs the Streamlit dashboard on Google Colab and gives a public link
 │   ├── README.md                               ← dashboard pages and a 5-minute demo guide
@@ -87,7 +83,6 @@ DS-PROJECT/
 | I want to see… | Open |
 |---|---|
 | The full analysis with every output | `Notebook/CVI_Retail_Forecasting_executed.ipynb` |
-| The research paper | `Research-Paper/Resreach_Paper_Final.pdf` |
 | The demo | `demo-video/` |
 | The interactive dashboard | `dashboard/` (see **How to run → Dashboard**) |
 | All figures | `cvi-outputs/rossman/figures/` and `cvi-outputs/favorita/figures/` |
